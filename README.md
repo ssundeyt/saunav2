@@ -1,8 +1,10 @@
 # saunav2 - AFBostäder mobbning
 Grymt skript för tidsbokning av bastu!
 
-# Release 1.0.0
+# Release 1.0.0 + patch
 Alla basfunktioner är definierade och skriptet är nu en release!
+
+Buggar som uppstod vid testning (speciellt av for loopen) är fixade.
 
 **Attributer:**
 
