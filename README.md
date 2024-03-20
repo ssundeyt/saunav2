@@ -1,6 +1,9 @@
 # saunav2 - AFBostäder mobbning
 Grymt skript för tidsbokning av bastu!
 
+# Release 1.0.0
+Alla basfunktioner är definierade och skriptet är nu en release!
+
 **Attributer:**
 
 Requests - för inloggning. Enklare än att använda selenium för inloggning
