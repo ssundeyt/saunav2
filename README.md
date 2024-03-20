@@ -6,6 +6,7 @@ Alla basfunktioner är definierade och skriptet är nu en release!
 
 Buggar som uppstod vid testning (speciellt av for loopen) är fixade.
 
+# Sammanfattning + guide
 **Attributer:**
 
 Requests - för inloggning. Enklare än att använda selenium för inloggning
