@@ -19,8 +19,8 @@ viewstate = soup.find('input', {'id': '__VIEWSTATE'}).get('value', '')
 eventvalidation = soup.find('input', {'id': '__EVENTVALIDATION'}).get('value', '')
 
 payload = {
-    "ctl00$ctl25$LoginControl$UserName": "mans.holmgren@gmail.com", #justera till din egen email
-    "ctl00$ctl25$LoginControl$Password": "Jerkman132", #skriv in ditt lösenord
+    "ctl00$ctl25$LoginControl$UserName": "mail", #justera till din egen email
+    "ctl00$ctl25$LoginControl$Password": "pass", #skriv in ditt lösenord
     "__VIEWSTATE": viewstate,
     "__EVENTVALIDATION": eventvalidation,
     "ctl00$ctl25$LoginControl$btnLogIn": "Logga in"
